@@ -1,0 +1,16 @@
+@font-face {
+    font-family: type1;
+    src: url(dist/fonts/Scandia-Bold.ttf);
+}
+#mainheader{
+
+    font-family: "type1";
+
+}
+#butn{
+
+    background-color: black;
+    color: aliceblue;
+}
+
+
