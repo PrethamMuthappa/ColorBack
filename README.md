@@ -1,5 +1,5 @@
 # ColorBack
-A simple website which changes/flips the background color randomly while clicking a button. This website was made using HTML , TailwindCSS and Javascript <br>
+A simple website which changes/flips the background color randomly while clicking a button. This website was made using HTML , TailwindCSS and Javascript. <br>
 
 It has 2 modes 
 >simple mode:- 
